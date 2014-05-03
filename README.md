@@ -2,15 +2,14 @@
 
 A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP](http://www.rubenslp.com.br/).
 
-![Animated Screenshot](https://raw.github.com/idleberg/atom-paraiso-dark/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/idleberg/atom-paraiso-dark/master/screenshot.png)
 
 ## Installation
 
 ### apm
 
-Make sure you have [Atom](https://atom.io/) (with apm) installed
-
-Use Atom Package Manager to install theme `apm install paraiso-dark`
+* Make sure you have [Atom](https://atom.io/) (with apm) installed
+* Install theme `apm install paraiso-dark`
 
 ### GitHub
 
