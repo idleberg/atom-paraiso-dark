@@ -11,5 +11,13 @@
   },
   "engines": {
     "atom": ">0.50.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jsonlint": "^1.0.1",
+    "gulp-recess": "^1.1.1"
+  },
+  "scripts": {
+    "test": "gulp lint"
   }
 }
