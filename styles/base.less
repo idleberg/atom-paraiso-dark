@@ -1,6 +1,8 @@
-@import "syntax-variables";
+// Atom template by Jan T. Sott (https://github.com/idleberg/)
+// Base16 scheme and Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
-atom-text-editor, // <- remove when Shadow DOM can't be disabled
+@import "syntax-variables.less";
+atom-text-editor,
 :host {
   color: @syntax-text-color;
   background-color: @syntax-background-color;
@@ -47,10 +49,10 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
     background-color: @syntax-selection-color;
   }
 
-  .line-number.cursor-line-no-selection,
-  .line.cursor-line {
-    background-color: #41323f;
+  .line-number.cursor-line-no-selection, .line.cursor-line {
+    background-color: rgba(80, 80, 80, 0.33);
   }
+
 }
 
 .variable.parameter.function {
@@ -73,7 +75,7 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
   color: #a39e9b;
 }
 
-.keyword, .keyword.control {
+.keyword {
   color: #815ba4;
 }
 
@@ -85,8 +87,12 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
   color: #06b6ef;
 }
 
-.meta.class, .support.class, .entity.name.class, .entity.name.type.class {
-  color: #f6e60d;
+.support.class, .entity.name.class, .entity.name.type.class {
+  color: #fec418;
+}
+
+.meta.class {
+  color: #e7e9db;
 }
 
 .keyword.other.special-method {
@@ -151,7 +157,7 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
 
 .markup.bold, .punctuation.definition.bold {
   font-weight: bold;
-  color: #f6e60d;
+  color: #fec418;
 }
 
 .markup.italic, .punctuation.definition.italic {
@@ -209,7 +215,7 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
 }
 
 .punctuation.section.embedded, .variable.interpolation {
-  color: #9ec931;
+  color: #e96ba8;
 }
 
 .invalid.illegal {
