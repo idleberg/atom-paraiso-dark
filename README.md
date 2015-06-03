@@ -8,6 +8,29 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/atom-paraiso-dark/master/screenshot.png)
 
+Also [available](https://github.com/search?q=%40idleberg+paraiso) for these apps:
+
+* BBEdit
+* CodeMirror
+* Color Palettes
+* Eclipse
+* Geany
+* Gedit
+* Google Code Prettify
+* highlight.js
+* IDEA
+* iTerm2
+* Mou
+* Notepad++
+* Prism
+* Pygments
+* Rainbow
+* [Sublime Text](https://github.com/idleberg/Paraiso.tmTheme)
+* Terminal
+* TextMate
+* Windows Command Prompt
+* Xcode
+
 ## Installation
 
 ### apm
