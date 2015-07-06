@@ -35,8 +35,7 @@ Also [available](https://github.com/search?q=%40idleberg+paraiso) for these apps
 
 ### apm
 
-* Make sure you have [Atom](https://atom.io/) (with apm) installed
-* Install theme `apm install paraiso-dark`
+* Install theme `apm install paraiso-dark` or use the GUI
 
 ### GitHub
 
