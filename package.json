@@ -10,7 +10,7 @@
     "url": "http://github.com/idleberg"
   },
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "devDependencies": {
     "gulp": "^3.8.10",
