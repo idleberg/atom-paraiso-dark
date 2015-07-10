@@ -35,7 +35,7 @@ Also [available](https://github.com/search?q=%40idleberg+paraiso) for these apps
 
 ### apm
 
-* Install theme `apm install paraiso-dark` or use the GUI
+* Install theme `apm install paraiso-dark` (or use the GUI)
 
 ### GitHub
 
