@@ -1,7 +1,7 @@
 # Paraíso (dark) for Atom
 
 [![apm](https://img.shields.io/apm/l/paraiso-dark.svg?style=flat-square)](https://atom.io/packages/paraiso-dark)
-[![Version](https://img.shields.io/apm/v/paraiso-dark.svg?style=flat-square)](https://atom.io/themes/paraiso-dark)
+[![apm](https://img.shields.io/apm/v/paraiso-dark.svg?style=flat-square)](https://atom.io/themes/paraiso-dark)
 [![apm](https://img.shields.io/apm/dm/paraiso-dark.svg?style=flat-square)](https://atom.io/packages/paraiso-dark)
 [![Travis branch](https://img.shields.io/travis/idleberg/atom-paraiso-dark/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-paraiso-dark)
 
