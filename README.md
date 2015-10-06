@@ -41,7 +41,7 @@ Also [available](https://github.com/search?q=%40idleberg+paraiso) for these apps
 ### GitHub
 
 1. Change directory to `~/.atom/packages/`
-2. Clone repository `git clone https://github.com/idleberg/atom-paraiso-dark.git`
+2. Clone repository `git clone https://github.com/idleberg/atom-paraiso-dark paraiso-dark`
 3. Enable theme from the *Atom/Preferences* menu
 
 See the official [documentation](https://atom.io/docs/latest/converting-a-text-mate-theme) for details
