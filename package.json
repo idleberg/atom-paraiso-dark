@@ -19,7 +19,7 @@
     "gulp-jshint": "^2.0.1",
     "gulp-jsonlint": "^1.1.2",
     "gulp-lesshint": "^2.0.0",
-    "jshint": "^2.9.2"
+    "jshint": "^2.9.3"
   },
   "scripts": {
     "test": "gulp lint"
