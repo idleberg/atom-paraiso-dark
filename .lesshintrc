@@ -1,0 +1,11 @@
+{
+    "maxCharPerLine": {
+       "enabled": false
+    },
+    "qualifyingElement": {
+       "enabled": false
+    },
+    "spaceAfterPropertyColon": {
+       "enabled": false
+    }
+}
