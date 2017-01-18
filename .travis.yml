@@ -9,7 +9,8 @@ branches:
   - master
 cache:
   timeout: 1800
-  directories:
+  yarn: true
+directories:
     - node_modules
 env:
   - CXX=g++-4.8
