@@ -49,7 +49,3 @@ See the official [documentation](https://atom.io/docs/latest/converting-a-text-m
 ## License
 
 This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US).
-
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-paraiso-dark) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
